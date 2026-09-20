@@ -64,7 +64,7 @@ Convolutional Neural Network.
 
 ## Contact
 
-GitHub: 23ShubhamCodes
+GitHub: https://github.com/23ShubhamCodes
 
 LinkedIn: www.linkedin.com/in/23shubhamcodes
 
